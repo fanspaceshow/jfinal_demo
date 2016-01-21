@@ -1,0 +1,5 @@
+driverClassName=com.microsoft.sqlserver.jdbc.SQLServerDriver
+jdbcUrl = jdbc:sqlserver://192.168.1.241:1433;DatabaseName=jfinaldemo
+user = sa
+password =admin1981
+devMode = true
